@@ -1,0 +1,4 @@
+data/*
+!data/cas_missing.csv
+out
+*Rproj*
